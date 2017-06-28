@@ -1,6 +1,6 @@
 # openscad-utils
 
-Several utilies files for [OpenSCAD](http://www.openscad.org/).
+Several easy to use utilities for [OpenSCAD](http://www.openscad.org/).
 
 ## Getting Started
 
