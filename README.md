@@ -1,6 +1,6 @@
 # openscad-utils
 
-Several utilies files for [OpenSCAD](http://www.openscad.org/).
+Several utilies files for [OpenSCAD](http://www.openscad.org/). Just `<include>` the utilities you need in your project files.
 
 ## Geometry.scad
 
