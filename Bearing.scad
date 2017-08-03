@@ -10,4 +10,4 @@ module Bearing(_dE, _dI, _h)
 	}
 }
 
-Bearing (16, 6, 6);
+//Bearing (16, 6, 6);
